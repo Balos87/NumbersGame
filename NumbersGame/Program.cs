@@ -129,7 +129,7 @@ namespace NumbersGame
 
                     if (playerGuess == hardSetting)
                     {
-                        Console.WriteLine("\nEhhh wtf? Helt otroligt, du klarade det!\n");
+                        Console.WriteLine("\nEhhh what? Helt otroligt, du klarade det!\n");
                         Console.WriteLine("Va roligt att du testade svåra nivån! Stort tack!\n");
                         Console.ReadKey();
                         break;
